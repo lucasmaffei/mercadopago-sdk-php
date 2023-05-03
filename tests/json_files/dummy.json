@@ -6,5 +6,6 @@
   "picture_url": "https://www.mercadopago.com/org-img/MP3/home/logomp3.gif",
   "currency_id": "ARS",
   "quantity": 1,
-  "unit_price": 100
+  "unit_price": 100,
+  "event_date": "2012-12-21T16:00:00.000-03:00"
 }

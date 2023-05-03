@@ -68,4 +68,10 @@ class Item extends Entity
      */
     protected $unit_price;
 
+    /**
+     * event_date
+     * @Attribute(type = "date")
+     * @var \DateTime
+     */
+    protected $event_date;
 }
